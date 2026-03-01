@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:/Users/ddex6/OneDrive/Desktop/Shaked-Background-Removal\" log --oneline --all)",
+      "Bash(where python)",
+      "Bash(where python3)",
+      "Bash(ls /c/Python*/python.exe)",
+      "Bash(ls /c/Users/ddex6/AppData/Local/Programs/Python/*/python.exe)",
+      "Bash(/c/Users/ddex6/AppData/Local/Microsoft/WindowsApps/python.exe --version)"
+    ]
+  }
+}
